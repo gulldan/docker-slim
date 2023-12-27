@@ -12,7 +12,7 @@ require (
 	github.com/compose-spec/compose-go v0.0.0-20210916141509-a7e1bc322970
 	github.com/docker-slim/go-update v0.0.0-20190422071557-ed40247aff59
 	github.com/docker-slim/uiprogress v0.0.0-20190505193231-9d4396e6d40b
-	github.com/docker/docker v23.0.1+incompatible
+	github.com/docker/docker v23.0.8+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/dustin/go-humanize v1.0.0
 	github.com/fatih/color v1.13.0
